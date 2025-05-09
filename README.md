@@ -1,2 +1,1 @@
-# App-deploy1
-to deploy end to end project
+# mindcircuit15d - SAMPLE APP
